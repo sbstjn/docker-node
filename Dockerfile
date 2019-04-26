@@ -11,3 +11,4 @@ RUN wget -q -P /tmp https://download.docker.com/linux/static/stable/x86_64/docke
   && rm -rf /tmp/docker /tmp/docker-$DOCKER_VERSION.tgz
 
 RUN yarn global add swagger-combine
+RUN yarn global add graphql-cli

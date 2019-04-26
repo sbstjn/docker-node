@@ -10,6 +10,7 @@
 ### Packages
 
 - `swagger-combine`
+- `graphql-cli`
 
 ## Usage
 
