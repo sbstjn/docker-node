@@ -9,8 +9,9 @@
 
 ### Packages
 
-- `swagger-combine`
+- `apollo`
 - `graphql-cli`
+- `swagger-combine`
 
 ## Usage
 
