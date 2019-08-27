@@ -1,6 +1,6 @@
 FROM mhart/alpine-node:10
 
-RUN apk add --update jq curl make bash \
+RUN apk add --update jq curl make bash zip \
   libc6-compat gcc musl-dev libffi-dev openssl-dev git py-pip ca-certificates openssl
 RUN pip install awscli
 
